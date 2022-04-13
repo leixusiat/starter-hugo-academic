@@ -1,8 +1,7 @@
 ---
 title: Lei Xu
 role: Assistant Professor
-bio: My research interests include distributed robotics, mobile computing and
-  programmable matter.
+bio: My research interests include computational fluid dynamics, parallel computing.
 interests:
   - Artificial Intelligence
   - Computational Linguistics
