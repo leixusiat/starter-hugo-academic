@@ -3,9 +3,8 @@ title: Lei Xu
 role: Assistant Professor
 bio: My research interests include computational fluid dynamics, parallel computing.
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - computational fluid dynamics
+  - parallel computing
 social:
   - icon: envelope
     icon_pack: fas
